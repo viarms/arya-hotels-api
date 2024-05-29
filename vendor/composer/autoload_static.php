@@ -552,6 +552,7 @@ class ComposerStaticInitee28b27a0cec8238497d6870ce7083b0
         'App\\Http\\Controllers\\Controller' => __DIR__ . '/../..' . '/app/Http/Controllers/Controller.php',
         'App\\Http\\Controllers\\DestinationController' => __DIR__ . '/../..' . '/app/Http/Controllers/DestinationController.php',
         'App\\Http\\Controllers\\HotelController' => __DIR__ . '/../..' . '/app/Http/Controllers/HotelController.php',
+        'App\\Http\\Middleware\\OwnCors' => __DIR__ . '/../..' . '/app/Http/Middleware/OwnCors.php',
         'App\\Http\\Middleware\\VerifyCsrfToken' => __DIR__ . '/../..' . '/app/Http/Middleware/VerifyCsrfToken.php',
         'App\\Http\\Requests\\LoginRequest' => __DIR__ . '/../..' . '/app/Http/Requests/LoginRequest.php',
         'App\\Models\\Contact' => __DIR__ . '/../..' . '/app/Models/Contact.php',

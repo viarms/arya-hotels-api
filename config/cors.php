@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['http://localhost:3000', 'https://arya-resorts.shibesoft.dev', 'https://arya-resorts.com'],
+    'allowed_origins' => ['http://localhost:3000', 'https://aryaapi.fstdo.co.id', 'https://arya-resorts.com'],
 
     'allowed_origins_patterns' => [],
 

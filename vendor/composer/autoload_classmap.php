@@ -13,6 +13,7 @@ return array(
     'App\\Http\\Controllers\\Controller' => $baseDir . '/app/Http/Controllers/Controller.php',
     'App\\Http\\Controllers\\DestinationController' => $baseDir . '/app/Http/Controllers/DestinationController.php',
     'App\\Http\\Controllers\\HotelController' => $baseDir . '/app/Http/Controllers/HotelController.php',
+    'App\\Http\\Middleware\\OwnCors' => $baseDir . '/app/Http/Middleware/OwnCors.php',
     'App\\Http\\Middleware\\VerifyCsrfToken' => $baseDir . '/app/Http/Middleware/VerifyCsrfToken.php',
     'App\\Http\\Requests\\LoginRequest' => $baseDir . '/app/Http/Requests/LoginRequest.php',
     'App\\Models\\Contact' => $baseDir . '/app/Models/Contact.php',
